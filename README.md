@@ -1,7 +1,7 @@
 <div align="center">  
   
-# GEMINI: A Global and Scene-Specialized Mixture of Experts Framework with Dual-Aware Router for End-to-End Autonomous Driving
+# GEMINI: Dual-Aware Global and Scene-Specialized Mixture of Experts for End-to-End Autonomous Driving
   
 </div>
 
-We are in the process of preparing our code for release and aim to open-source it soon. I am currently attending to undergraduate graduation commitments, this may require some time. Thank you for your patience and interest.
+I am currently busy with my undergraduate graduation trip. The code is expected to be open-sourced by mid-July. Thank you for your patience!
