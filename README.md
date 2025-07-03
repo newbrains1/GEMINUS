@@ -1,6 +1,6 @@
 <div align="center">  
   
-# GEMINI: Dual-Aware Global and Scene-Specialized Mixture of Experts for End-to-End Autonomous Driving
+# GEMINUS: Dual-Aware Global and Scene-Specialized Mixture of Experts for End-to-End Autonomous Driving
   
 </div>
 
