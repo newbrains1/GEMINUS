@@ -4,4 +4,4 @@
   
 </div>
 
-I am currently busy with my undergraduate graduation trip. The code is expected to be open-sourced by mid-august. Thank you for your patience!
+I am currently busy with my undergraduate graduation trip. The code is expected to be open-sourced before September. Thank you for your patience!
