@@ -29,7 +29,7 @@ GEMINUS outperforms existing methods in the Bench2Drive
 closed-loop benchmark and achieves state-of-the-art performance in Driving Score and Success Rate, even with only
 monocular vision input. Furthermore, ablation studies demonstrate significant improvements over the original single-expert
 baseline: 7.67% in Driving Score, 22.06% in Success Rate, and
-19.41% in MultiAbility-Mean
+19.41% in MultiAbility-Mean.
 
 ## Overview
 <div align="center">
