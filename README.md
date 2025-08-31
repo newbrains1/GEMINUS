@@ -16,7 +16,7 @@ First, clone this repository and set up the required environment by running the 
 
 ```bash
 # Step 1: Clone the Repository
-git clone [https://github.com/newbrains1/GEMINUS.git](https://github.com/newbrains1/GEMINUS.git)
+git clone https://github.com/newbrains1/GEMINUS.git
 cd GEMINUS
 
 # Step 2: Create Conda Environment & Activate
