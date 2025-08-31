@@ -25,7 +25,7 @@ conda activate geminus
 
 # Step 3: Install PyTorch
 pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/cu118
-
+```
 
 ## Citation
 If you find our repo or our paper useful, please use the following citation:
@@ -36,6 +36,7 @@ If you find our repo or our paper useful, please use the following citation:
   journal={arXiv preprint arXiv:2507.14456},
   year={2025}
 }
+```
 
 ## Acknowledgements
 Our code is based on several repositories:
