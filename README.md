@@ -1,8 +1,9 @@
-<div align-center">
+<div align="center">
 
 ### GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving
 
-<a href="[您的论文arXiv链接](https://www.arxiv.org/abs/2507.14456)"><img src='https://img.shields.io/badge/arXiv-GEMINUS-red' alt='Paper PDF'></a>
+<a href="https://www.arxiv.org/abs/2507.14456"><img src='https://img.shields.io/badge/arXiv-GEMINUS-red' alt='Paper PDF'></a>
+
 </div>
 
 ## Release List
