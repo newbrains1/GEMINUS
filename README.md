@@ -13,8 +13,31 @@ Chi Wan<sup>1</sup>, Yixin Cui<sup>1</sup>, Jiatong Du<sup>1</sup>, Shuo Yang<su
 
 </div>
 
+## Abstract
+End-to-end autonomous driving requires adaptive
+and robust handling of complex and diverse traffic environments. However, prevalent single-mode planning methods
+attempt to learn an overall policy while struggling to acquire
+diversified driving skills to handle diverse scenarios. Therefore,
+this paper proposes GEMINUS, a Mixture-of-Experts end-toend autonomous driving framework featuring a Global Expert,
+a Scene-Adaptive Experts Group, and equipped with a Dualaware Router. Specifically, the Global Expert is trained on
+the overall dataset, possessing robust performance. The SceneAdaptive Experts are trained on corresponding scene subsets, achieving adaptive performance. The Dual-aware Router
+simultaneously considers scenario-level features and routing
+uncertainty to dynamically activate expert modules. Through
+the effective coupling of the Global Expert and the SceneAdaptive Experts Group via the Dual-aware Router, GEMINUS
+achieves adaptive and robust performance in diverse scenarios.
+GEMINUS outperforms existing methods in the Bench2Drive
+closed-loop benchmark and achieves state-of-the-art performance in Driving Score and Success Rate, even with only
+monocular vision input. Furthermore, ablation studies demonstrate significant improvements over the original single-expert
+baseline: 7.67% in Driving Score, 22.06% in Success Rate, and
+19.41% in MultiAbility-Mean
+
+## Overview
+<div align="center">
+<img src="assets/GEMINUS_framework.pdf" width="1000">
+</div>
+
 ## Release List
-- [x] Getting Started
+- [√] Getting Started
 - [ ] Data Preprocessing
 - [ ] Training
 - [ ] Open-loop Evalution
@@ -35,6 +58,8 @@ conda activate geminus
 
 # Step 3: Install PyTorch
 pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url [https://download.pytorch.org/whl/cu118](https://download.pytorch.org/whl/cu118)
+```
+
 ## Citation
 If you find our repo or our paper useful, please use the following citation:
 ```bibtex
