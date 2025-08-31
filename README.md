@@ -33,7 +33,7 @@ baseline: 7.67% in Driving Score, 22.06% in Success Rate, and
 
 ## Overview
 <div align="center">
-<img src="assets/GEMINUS_framework.pdf" width="1000">
+<img src="assets/GEMINUS_Overview.pdf" width="1000">
 </div>
 
 ## Release List
