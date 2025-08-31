@@ -2,6 +2,13 @@
 
 ### GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving
 
+Chi Wan<sup>1</sup>, Yixin Cui<sup>1</sup>, Jiatong Du<sup>1</sup>, Shuo Yang<sup>1</sup>, Yulong Bai<sup>1</sup>, Yanjun Huang<sup>1†</sup>
+<br>
+<sup>1</sup> Institute of Intelligent Vehicles, Tongji University (TJU-IIV)
+<br>
+(†) Corresponding author.
+<br><br>
+
 <a href="https://www.arxiv.org/abs/2507.14456"><img src='https://img.shields.io/badge/arXiv-GEMINUS-red' alt='Paper PDF'></a>
 
 </div>
