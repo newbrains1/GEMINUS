@@ -62,12 +62,7 @@ pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url [http
 
 ## Data Preprocessing
 ### 1. Download the Dataset
-
-Please download the **Bench2Drive-base** dataset (approx. 400GB) from either of the links below and extract it to your desired location.
-
-| Dataset Version | Hugging Face | Baidu Cloud (Password: 1234) |
-| :---: | :---: | :---: |
-| Base | [Download Link](https://huggingface.co/datasets/rethinklab/Bench2Drive) | [Download Link](https://pan.baidu.com/s/1ZIL-MPhLbgdBYmHkHncn8Q) |
+Please download the **Bench2Drive-base** dataset (approx. 400GB) and extract it to your desired location. You can get the data from [**Hugging Face**](https://huggingface.co/datasets/rethinklab/Bench2Drive) or [**Baidu Cloud**](https://pan.baidu.com/s/1ZIL-MPhLbgdBYmHkHncn8Q) (Password: `1234`).
 
 ### 2. Process the Data
 
