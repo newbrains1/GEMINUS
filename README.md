@@ -65,12 +65,13 @@ pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url [http
 Please download the **Bench2Drive-base** dataset (approx. 400GB) and extract it to your desired location. You can get the data from [**Hugging Face**](https://huggingface.co/datasets/rethinklab/Bench2Drive) or [**Baidu Cloud**](https://pan.baidu.com/s/1ZIL-MPhLbgdBYmHkHncn8Q) (Password: `1234`).
 
 ### 2. Process the Data
-# --- Generate Training Data ---
+```bash
+# Step 1: Process Train Data
 python tools/gen_GEMINUS_data.py --train 1 --data_path /path/to/your/Bench2Drive-base --workers 64
 
-# --- Generate Validation Data ---
+# Step 2: Process Val Data
 python tools/gen_GEMINUS_data.py --train 0 --data_path /path/to/your/Bench2Drive-base --workers 64
-
+```
 
 
 ## Citation
