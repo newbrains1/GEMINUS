@@ -38,7 +38,7 @@ baseline: 7.67% in Driving Score, 22.06% in Success Rate, and
 
 ## Release List
 - [√] Getting Started
-- [ ] Data Preprocessing
+- [√] Data Preprocessing
 - [ ] Training
 - [ ] Open-loop Evalution
 - [ ] Close-loop Evalution
@@ -49,7 +49,7 @@ Clone this repository and set up the required environment by running the command
 
 ```bash
 # Step 1: Clone the Repository
-git clone [https://github.com/newbrains1/GEMINUS.git](https://github.com/newbrains1/GEMINUS.git)
+git clone https://github.com/newbrains1/GEMINUS.git
 cd GEMINUS
 
 # Step 2: Create Conda Environment & Activate
@@ -57,7 +57,7 @@ conda env create -f environment.yml
 conda activate geminus
 
 # Step 3: Install PyTorch
-pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url [https://download.pytorch.org/whl/cu118](https://download.pytorch.org/whl/cu118)
+pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/cu118
 ```
 
 ## Data Preprocessing
