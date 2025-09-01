@@ -45,7 +45,7 @@ baseline: 7.67% in Driving Score, 22.06% in Success Rate, and
 
 ## Getting Started
 
-First, clone this repository and set up the required environment by running the commands below.
+Clone this repository and set up the required environment by running the commands below.
 
 ```bash
 # Step 1: Clone the Repository
@@ -59,6 +59,20 @@ conda activate geminus
 # Step 3: Install PyTorch
 pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url [https://download.pytorch.org/whl/cu118](https://download.pytorch.org/whl/cu118)
 ```
+
+## Data Preprocessing
+### 1. Download the Dataset
+
+Please download the **Bench2Drive-base** dataset (approx. 400GB) from either of the links below and extract it to your desired location.
+
+| Dataset Version | Hugging Face | Baidu Cloud (Password: 1234) |
+| :---: | :---: | :---: |
+| Base | [Download Link](https://huggingface.co/datasets/rethinklab/Bench2Drive) | [Download Link](https://pan.baidu.com/s/1ZIL-MPhLbgdBYmHkHncn8Q) |
+
+### 2. Process the Data
+
+
+
 
 ## Citation
 If you find our repo or our paper useful, please use the following citation:
